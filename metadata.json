@@ -1,0 +1,7 @@
+{
+  "name": "SnapStudy",
+  "description": "Private AI that learns how you learn. An on-device multimodal AI learning assistant designed to be optimized for Snapdragon-powered Windows PCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
